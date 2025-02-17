@@ -2,3 +2,6 @@ This is my second file
 This is a new line.  
 Adding another line for practice.
 I am happy
+• git add: Prepare changes for saving.
+• git commit: Save changes locally.
+• git push: Upload changes to the remote repository.
